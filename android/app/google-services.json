@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "16373469486",
+    "firebase_url": "https://project-t-7366e.firebaseio.com",
+    "project_id": "project-t-7366e",
+    "storage_bucket": "project-t-7366e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16373469486:android:70ff6ce4a1ffe53bddeabf",
+        "android_client_info": {
+          "package_name": "com.habitaly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16373469486-uopn81cgoelht9tah2d9s03lvpnp701o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd2hINS5n7BacE0Vz8wYjGUnL0fVTZLBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16373469486-uopn81cgoelht9tah2d9s03lvpnp701o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "16373469486-ku7fmic8sqoil8ch7f18leh9kjei8oiv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.habitaly"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
